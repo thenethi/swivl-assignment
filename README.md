@@ -39,9 +39,9 @@
 
 #### Must Have
 
-    Functionality: All API endpoints should be functional, enabling CRUD operations on Users and Diary Entries using class methods.
-    Code Quality: Code should follow OOP principles, be clean, modular, and well-documented.
-    Deployment: The API should be successfully deployed and functional in a live environment.
+    * Functionality: All API endpoints should be functional, enabling CRUD operations on Users and Diary Entries using class methods.
+    * Code Quality: Code should follow OOP principles, be clean, modular, and well-documented.
+    * Deployment: The API should be successfully deployed and functional in a live environment.
 
 
 
