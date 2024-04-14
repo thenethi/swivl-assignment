@@ -43,5 +43,6 @@
     * Code Quality: Code should follow OOP principles, be clean, modular, and well-documented.
     * Deployment: The API should be successfully deployed and functional in a live environment.
 
-
+### API
+     /register, /login, /profile/:username, /diary_entry, /diary_entry/:diary_id
 
