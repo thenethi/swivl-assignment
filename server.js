@@ -52,6 +52,10 @@ const authenticateToken = (request, response, next) => {
     }
   };
 
+app.get("/",async(request,response)=>{
+    response.send("Hi, From Home Route use a different API's mentioned in the Github Repo Readme File.")
+})
+
 app.post("/register",async(request,response)=>{
     const {username, password, name, email}=request.body 
     const hashedPassword=await bcrypt.hash(password,10);
